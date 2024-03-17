@@ -17,4 +17,7 @@ def hello_world():
 
 hello_world()
 ```
-hello
+```bash
+# Example Python code snippet
+echo 'hello'
+```
